@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  border-collapse: collapse;
+ 
+  
+}
+
+
+tr,td,th{
+  border: 2px solid  rgb(51, 51, 158);
+}
+
+tr{
+  background-color: rgb(7, 183, 241);
+  
+}
+
+td{
+  background-color: lightblue;
+  font-size: 20px;
+}
+
+img:hover{
+  transform: scale(1.2);
+  transition: 1s;
+}
+
+

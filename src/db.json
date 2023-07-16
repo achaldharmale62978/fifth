@@ -1,0 +1,38 @@
+{
+ "students":[
+    {
+        "id":1,
+        "email":"achal@gmail.com",
+        "first_name":"Achal",
+        "last_name":"Dharmale",
+        "city":"amravati",
+        "avatar":"https://reqres.in/img/faces/2-image.jpg"
+    },
+    {
+        "id":2,
+        "email":"dhiraj@gmail.com",
+        "first_name":"Dhiraj",
+        "last_name":"Shah",
+        "city":"Pune",
+        "avatar":"https://reqres.in/img/faces/3-image.jpg"
+    },
+    {
+        "id":3,
+        "email":"rajeshri@gmail.com",
+        "first_name":"Rajeshri",
+        "last_name":"Varma",
+        "city":"Delhi",
+        "avatar":"https://reqres.in/img/faces/5-image.jpg"
+    },
+    {
+        "id":4,
+        "email":"hemant@gmail.com",
+        "first_name":"Hemant",
+        "last_name":"Rai",
+        "city":"Dehradun",
+        "avatar":"https://reqres.in/img/faces/6-image.jpg"
+    }
+    
+ ]   
+        
+}
